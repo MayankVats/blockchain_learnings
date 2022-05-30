@@ -24,4 +24,4 @@ So, the blockchain can be seen as a type of data structure which stores data rel
 
 ### Anatomy of a Block
 
-![Block]("./assets/block.jpg")
+![Block](./assets/block.jpg)
